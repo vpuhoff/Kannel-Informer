@@ -1,0 +1,8 @@
+c:\users\vipuhov\documents\visual studio 2012\Projects\Kannel Informer v2\Kannel Informer v2\bin\Release\Kannel Informer v2.exe.config
+c:\users\vipuhov\documents\visual studio 2012\Projects\Kannel Informer v2\Kannel Informer v2\bin\Release\Kannel Informer v2.exe
+c:\users\vipuhov\documents\visual studio 2012\Projects\Kannel Informer v2\Kannel Informer v2\bin\Release\Kannel Informer v2.pdb
+c:\users\vipuhov\documents\visual studio 2012\Projects\Kannel Informer v2\Kannel Informer v2\obj\Release\Kannel_Informer_v2.Form1.resources
+c:\users\vipuhov\documents\visual studio 2012\Projects\Kannel Informer v2\Kannel Informer v2\obj\Release\Kannel_Informer_v2.Properties.Resources.resources
+c:\users\vipuhov\documents\visual studio 2012\Projects\Kannel Informer v2\Kannel Informer v2\obj\Release\Kannel Informer v2.csproj.GenerateResource.Cache
+c:\users\vipuhov\documents\visual studio 2012\Projects\Kannel Informer v2\Kannel Informer v2\obj\Release\Kannel Informer v2.exe
+c:\users\vipuhov\documents\visual studio 2012\Projects\Kannel Informer v2\Kannel Informer v2\obj\Release\Kannel Informer v2.pdb

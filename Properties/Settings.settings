@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Kannel_Informer_v2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="tel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7**********</Value>
+    </Setting>
+    <Setting Name="from" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MYNAME</Value>
+    </Setting>
+    <Setting Name="text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Проверка связи</Value>
+    </Setting>
+    <Setting Name="serverip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8.8.8.8</Value>
+    </Setting>
+    <Setting Name="serverport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345</Value>
+    </Setting>
+    <Setting Name="originator" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SYSTEMNAME</Value>
+    </Setting>
+    <Setting Name="login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tester</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tester123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
